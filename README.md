@@ -18,7 +18,7 @@ Word and phrase translations, interactive learning exercises, pronunciation help
 # Technology Stack 
 Python for the core model, TensorFlow or PyTorch for training, and NLP libraries such as Hugging Face Transformers.
 
-Citations
+# Citations
 1. Worldschoolbooks
    https://worldschoolbooks.com/guide-to-kikuyu-resources/
 2. nax.today
