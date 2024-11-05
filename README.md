@@ -6,7 +6,7 @@ The Kikuyu language, or Gĩkũyũ, is a Bantu language spoken by the Kikuyu peop
 
 In recent years, the Kikuyu language has faced challenges due to globalization and the dominance of languages like English and Swahili. This has led to a decline in the use of Kikuyu, especially among younger generations. To address this, there is a growing need for innovative solutions to preserve and promote the language.
 
-The proposed AI model aims to ensure the continuity of the Kikuyu language by providing an interactive platform for learning and research. This model will assist individuals interested in learning Kikuyu, offering resources such as vocabulary, grammar, pronunciation guides, and cultural insights. Additionally, it will facilitate research by providing translations between Kikuyu, Swahili, and English, thereby bridging linguistic gaps and promoting a deeper understanding of the language's rich heritage.
+The AI model aims to ensure the continuity of the Kikuyu language by providing an interactive platform for learning and research. This model will assist individuals interested in learning Kikuyu, offering resources such as vocabulary, grammar, pronunciation guides, and cultural insights. Additionally, it will facilitate research by providing translations between Kikuyu, Swahili, and English, thereby bridging linguistic gaps and promoting a deeper understanding of the language's rich heritage.
 
 By leveraging advanced natural language processing techniques, the AI model will offer personalized learning experiences, adapting to the user's proficiency level and learning pace. This approach not only makes learning more engaging but also ensures that the nuances and cultural contexts of the Kikuyu language are effectively conveyed.
 
