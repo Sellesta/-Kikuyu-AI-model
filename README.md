@@ -26,6 +26,6 @@ Citations
 8. https://www.masteranylanguage.com/c/p/en/Kikuyu
 9. https://www.masteranylanguage.com/c/r/en/Kikuyu/HowToLearn
 10. https://www.youtube.com/watch?v=hynCpgtt1LE
-11.      
+    
 
 
