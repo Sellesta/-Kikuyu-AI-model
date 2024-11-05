@@ -20,6 +20,12 @@ Citations
 3. wikis.swarthmore.edu
    https://wikis.swarthmore.edu/ling073/Kikuyu/Grammar
 4. https://learn-kikuyu.netlify.app/
-5.      
+5. https://languagexs.com/kikuyu-translation-service/
+6. https://www.udemy.com/course/how-to-learn-kikuyu-language-fast/?couponCode=ST7MT110524
+7. https://www.masteranylanguage.com/c/r/o/Kikuyu/MonthsOfYear
+8. https://www.masteranylanguage.com/c/p/en/Kikuyu
+9. https://www.masteranylanguage.com/c/r/en/Kikuyu/HowToLearn
+10. https://www.youtube.com/watch?v=hynCpgtt1LE
+11.      
 
 
