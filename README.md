@@ -12,6 +12,7 @@ By leveraging advanced natural language processing techniques, the AI model will
 
 Incorporating this AI model into educational curricula and community programs can play a pivotal role in revitalizing the Kikuyu language. It serves as a valuable tool for educators, researchers, and language enthusiasts dedicated to preserving and promoting the linguistic and cultural heritage of the Kikuyu people.
 
+
 # Features 
 Word and phrase translations, interactive learning exercises, pronunciation help, quizzes, and voice interaction.
 
