@@ -1,7 +1,7 @@
 
 # Kikuyu-AI-model
 
-An AI-driven platform designed to facilitate the learning and teaching of Kikuyu, Swahili, and English through interactive exercises, translations, and personalized language tools. This initiative aims to preserve and promote the Kikuyu language while fostering multilingual competence.
+A Machine learning platform designed to facilitate the learning and teaching of Kikuyu, Swahili, and English through interactive exercises, translations, and personalized language tools. This initiative aims to preserve and promote the Kikuyu language while fostering multilingual competence.
 
 ---
 
